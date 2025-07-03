@@ -4,7 +4,7 @@ A cyberpunk thriller about an AI uprising in Tokyo. Written, edited, and self-pu
 
 ## 📖 Contents  
 - [Full Story (PDF)](NEO-TOKYO_THE_NEW_WORLD.pdf)  
-- **Skills Demonstrated**: Creative writing, editing, technical formatting.  
+- Skills Demonstrated: Creative writing, editing, technical formatting.  
 
 ## 🚀 Why This Project?  
 Showcases my ability to:  
